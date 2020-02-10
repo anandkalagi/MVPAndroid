@@ -10,4 +10,5 @@ Git add .
 Git remote add origin “GitHub project path .git”
 Git commit -m “commit message”
 Git push -u origin master 
+Git pull
 
